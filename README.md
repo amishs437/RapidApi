@@ -1,5 +1,6 @@
 # RapidApi
-#**RapidApiGetForecastSummaryByLocationName**
+
+<h1>#**RapidApiGetForecastSummaryByLocationName**</h1>
 
 This API endpoint allows you to retrieve a summary of the weather forecast for a specific location. You can use this endpoint to get a quick overview of the weather conditions, including temperature, wind speed, humidity, and precipitation.
 
@@ -36,7 +37,7 @@ source:"w3Data"
 
 point:"global"
 
-#**RapidApiGetHourlyForecastByLocationName**
+<h1>#**RapidApiGetHourlyForecastByLocationName**</h2>
 
 This API endpoint allows you to retrieve an hourly weather forecast for a specific location. You can use this endpoint to get a detailed breakdown of the weather conditions, including temperature, wind speed, humidity, and precipitation, for each hour of the day.
 
